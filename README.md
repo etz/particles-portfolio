@@ -11,7 +11,7 @@ A resource built in PHP/HTML to present a simplistic/aesthetic portfolio or dire
 
 ## Preview
 
-![Preview](https://i.imgur.com/G0mySMW.gif)
+![Preview](https://i.imgur.com/xdiRiaG.gif)
 
 ## Setup
 
