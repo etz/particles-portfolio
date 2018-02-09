@@ -19,3 +19,8 @@ A resource built in PHP/HTML to present a simplistic/aesthetic portfolio or dire
 
 Drag and drop the repository into your web host's "public-html" destination, or upload directly through sFTP.
 Modify 'index.php' to view applicable settings and variables.
+
+To add music to your content:
+1. Create a new directory labelled "songs" in the same directory as index.php
+2. Add mp3 files to /songs/, titled in a number-sequential order. (e.x. "1.mp3", "2.mp3", "3.mp3")
+3. Modify 'index.php' to include the total number of songs.
