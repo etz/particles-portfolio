@@ -11,7 +11,8 @@ A resource built in PHP/HTML to present a simplistic/aesthetic portfolio or dire
 
 ## Preview
 
-![Preview](https://i.imgur.com/xdiRiaG.gif)
+[Preview of site using a background](https://vgy.me/GERYBn.gif) (vgy.me)
+[Preview of site without background](https://vgy.me/DxICY7.gif) (vgy.me) 
 
 ## Setup
 
